@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+
+  <head>
+    <title>Tran Empire HTML Test</title>
+      <style>
+      p{font-family:Calibri;}
+      </style>
+     
+      <style>
+      li{font-family:Calibri;}
+      </style>
+      
+      <style>
+      p{font-family:Calibri;}
+      </style>
+      
+      <style>
+      a{font-family:Calibri;}
+      </style>
+      
+      <style>
+      h1{font-family:Arial Black;}
+      </style>
+      
+      <style>
+      h2{font-family:Helvetica;}
+      </style>
+      
+      <style>
+      h4{font-family:Courier New;}
+      </style>
+      
+      <style>
+      h5{font-family:Helvetica;}
+      </style>
+  </head>
+
+  <body>
+  
+    <div>
+    <h1><strong>Tran Empire HTML Basics Test</strong>
+    <h4>Greetings Loyal Subjects & Mudda Peoples of the Empire! </h4>
+    <p>(▀̿Ĺ̯▀̿ ̿)   (ﾉ◕ヮ◕)ﾉ  ಠ_ಠ  ʕ•ᴥ•ʔ</p>
+    </div>
+
+<div>  
+
+    <h2><em>Why Have You Been Summoned?</em></h2>
+    <p>This is the Tran Empire IT Department's first test of HTML basics like links, text, images, etc.<br>
+    This was authorised by the emperor of the <em>glorious</em> <strong>Tran Empire</strong> - Thomas Khai Tran.<br>
+    Here are some basic features so far using only HTML;</p>
+    
+    <h5>Buttons</h5>
+    <button>Click Me,</button>
+    <button><em>Click Me...</em></button>
+    <br>
+    <button><strong>YOU WILL CLICK ME.</strong></button>
+    
+    <h5>Links</h5>
+    <a href="https://www.amgconstructions.com.au/">AMG Constructions Website</a>
+    <br>
+    <a href="https://tranempireenquire.wixsite.com/enlist">Tran Empire Official Website</a>
+    
+    <h5>Images</h5>
+    <p><em>Flag of the Empire</em></p>
+    <img src="https://static.wixstatic.com/media/40bd25_d4503b45c1254b66b37cc82763a4f148~mv2.png/v1/fill/w_108,h_108,al_c,q_85,usm_0.66_1.00_0.01/Tran%20Empire.webp"
+     width = "200" height = "200" />
+
+    <h5>Input Elements</h5>
+    <input type="text" placeholder="Name"/>
+    <input type="password" placeholder="Password"/>
+    <br>
+    <input type="date" placeholder="Date"/>
+    <input type="color"/>
+    <br>
+    <input type="week"/>
+    <input type="time"/>
+    <br>
+    <input type="search" placeholder="Search"/>
+    <input type="range"/>
+
+    <h5>Ordered Lists</h5>
+    <ol>
+    <li>Eat Banana</li>
+    <li>Conquer Tasmania</li>
+    <li>Subjugate Heretical Kingdom of Darius</li>
+    <li>Tran Empire Wins Again</li>
+    </ol>
+
+    <h5>Unordered Lists</h5>
+    <ul>
+    <li>Tomato</li>
+    <li>Potato</li>
+    <li>World Conquest</li>
+    </ul>
+
+    <h5>Local Webpages</h5>
+    <a href="/about.html">   
+    <p>Learn more about the <strong>Tran Empire</strong> by
+     clicking here!</p>
+    </a>
+
+    <h5>Style Tags | Titles | Div | JS</h5> 
+    <p>Used in Head and in Internal Code</p>
+
+    <h2><em>To View Code Used to Program this Page:</em></h2>
+    <ol>
+    <li>Open your browser and navigate to the page for which you wish to view the HTML.</li>
+    <li>Right-click on the page to open the right-click menu after the page finishes loading.</li>
+    <li>Click the menu item that allows you to view the source. ...</li>
+    <li>When the source page opens, you'll see the HTML code for the full page.</li>
+    </ol>
+
+    <h4>Thanks For Visiting my Page! No Refunds. </h4>
+
+</div>
+
+  <script>
+    var emperor = 'Thomas'
+  </script>
+
+</body>
